@@ -58,6 +58,17 @@ Link -> https://ed.team/cursos-gratis
 
 # Canales de Youtube
 
+| Nombre del Canal | Link |
+| ------------- | ------------- |
+| A codear con Hugo  | https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA |
+| Programacion desde 0  | https://www.youtube.com/c/ProgramacionDesdeCero  |
+| ED Team  | https://www.youtube.com/user/escueladigitalperu  |
+| Fazt  | https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg  |
+| Pildoras Informaticas  | https://www.youtube.com/user/pildorasinformaticas  |
+| La Geekipedia De Ernesto  | https://www.youtube.com/user/neto376  |
+| Xaca Rana  | https://www.youtube.com/channel/UCB71XGdKnhBVDN-9SikOxFQ |
+
+# Comunidades
 
 
 
