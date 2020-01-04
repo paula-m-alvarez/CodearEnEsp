@@ -19,21 +19,18 @@ para aprender a codear etc..
 Link -> http://www.tutorialesprogramacionya.com/
 
 ![TPY 1](https://user-images.githubusercontent.com/42939596/71771856-2be35880-2f20-11ea-8dd3-432e5d315630.png)
-![TPY 2](https://user-images.githubusercontent.com/42939596/71771857-2be35880-2f20-11ea-8619-2e666c46ad0c.png)
 
 ## Ecodeup - Programacion Web Full Stack
 
 Link -> https://www.ecodeup.com/
 
 ![ecodep 1](https://user-images.githubusercontent.com/42939596/71771895-b4fa8f80-2f20-11ea-9651-a60b670b126b.png)
-![ecodep 2](https://user-images.githubusercontent.com/42939596/71771894-b4fa8f80-2f20-11ea-9dc1-14e5f6ab6cad.png)
 
 ## Fazt Web
 
 Link -> https://www.faztweb.com/
 
 ![faztweb1](https://user-images.githubusercontent.com/42939596/71771940-84ffbc00-2f21-11ea-9100-f8fbd3c8a655.png)
-![faztweb2](https://user-images.githubusercontent.com/42939596/71771941-85985280-2f21-11ea-9b96-47faa7f77fd2.png)
 
 ## Codigo Facilito
 
