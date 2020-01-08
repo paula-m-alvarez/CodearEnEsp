@@ -70,7 +70,36 @@ Link -> https://ed.team/cursos-gratis
 
 # Comunidades
 
+## JavaScript 101
 
+https://twitter.com/javascript_101
 
+## Asadito JS
+
+https://twitter.com/asaditojs
+
+## FrontEnd Cafe
+
+https://twitter.com/FrontEndCafe
+
+## Las de Sistemas
+
+https://twitter.com/lasdesistemas
+
+## Chicas Programando
+
+https://twitter.com/ChicasProgAR
+
+## Women Who Code
+
+https://twitter.com/wwcodeba
+
+## Women Who Go
+
+https://twitter.com/womenwhogoba
+
+## CoDeAr
+
+https://twitter.com/SomosCodear?s=09
 
 
