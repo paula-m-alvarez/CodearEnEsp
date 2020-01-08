@@ -1,8 +1,16 @@
 # Codear En Español
 ## De que se trata Codear en Español?
 La idea principal de este repositorio es brindar herramientas para aprender a programar en español de forma gratuita. Cuando hablo de
-herramientas me refiero a: cursos online en paginas web y canales de youtube, documentacion de workshops, comunidades que realizan eventos
-para aprender a codear etc..
+herramientas me refiero a: cursos online en paginas web y canales de youtube, documentacion de workshops, articulos, notas, comunidades que realizan eventos para aprender a codear etc..
+
+Se muy bien que las mejores herramientas se encuentran en ingles pero tambien creo firmemente que se puede hacer contenido de la misma calidad en español. 
+
+Aun asi, si estas buscando tu primer trabajo en IT, te aconsejo, como muchos ya lo habran hecho, aprender ingles, dado que muchas empresas lo tienen como requisito.
+
+Espero con el tiempo poner mas contenido en este repositorio.
+
+Por ultimo quisiera pedir a aquellas personas que tienen un ingles muy avanzado que siempre que puedan, traduzcan documentaciones ya que realmente estan dando una ayuda enorme!
+
 ## Indice
 1 - Paginas Webs 
 
