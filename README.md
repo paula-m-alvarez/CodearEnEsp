@@ -22,7 +22,7 @@ Por ultimo quisiera pedir a aquellas personas que tienen un ingles muy avanzado 
 
 4 - Documentacion de Workshops
 
-5 - Articulos (Proximamente!)
+5 - Articulos
 
 ------------------------------------------------------------------------------------
 
@@ -158,6 +158,31 @@ Gracias asadito js por este hilo maravilloso https://twitter.com/asaditojs/statu
 
 # Articulos
 
-## Proximamente!
+## Los 10 lenguajes de programación que más rápido están creciendo en todo el mundo
 
+Link -> https://www.businessinsider.es/10-lenguajes-programacion-rapido-estan-creciendo-532133
+
+## Ocho desarrolladores responden: qué me ayudó a convertirme en mejor programador
+
+Link -> https://www.xataka.com/otros/ocho-desarrolladores-responden-que-me-ayudo-a-convertirme-mejor-programador
+
+## Javascript SEO: Google rinde examen a libro abierto
+
+Link -> https://puntorojo.agency/javascript-seo-google-rinde-examen-a-libro-abierto/?utm_source=twitter
+
+## Cómo elegir entre Angular y React para tu próxima aplicación
+
+Link -> https://medium.com/@nanovazquez/c%C3%B3mo-elegir-entre-angular-y-react-para-tu-pr%C3%B3xima-aplicaci%C3%B3n-217f99f624b8
+
+## Por que aprender a programar?
+
+Link -> https://courseit.com.ar/blog/por-que-aprender-a-programar/
+
+## React Hooks, saca todo el potencial de React sin escribir clases - I
+
+Link -> https://midu.dev/react-hooks-introduccion-saca-todo-el-potencial-sin-class/
+
+## 6 razones para probar a React
+
+Link -> https://medium.com/@nanovazquez/6-razones-para-darle-una-prueba-a-react-8f114b77ac70
 
