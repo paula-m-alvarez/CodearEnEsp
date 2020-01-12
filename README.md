@@ -110,4 +110,38 @@ https://twitter.com/womenwhogoba
 
 https://twitter.com/SomosCodear?s=09
 
+# Documentacion de Workshops
+
+## Documentación React for Beginners
+
+Repo -> https://github.com/asaditojs/react-for-beginners
+
+## Workshop Vue introductorio 
+
+Repo -> https://github.com/ianaya89/workshop-vuejs
+
+## Docker desde cero!
+
+Link -> https://www.twitch.tv/videos/491405779
+
+## Workshop de Gatsby
+
+Repo -> https://github.com/agustinmulet/gatsbyworkshop
+
+## Workshop Pensando en React
+
+Repo -> https://github.com/leoasis/workshop-pensando-en-react
+
+## Docker 101
+
+Video -> https://www.youtube.com/watch?v=U1I9mi6kLxA&feature=youtu.be
+
+## Conociendo React
+
+Link -> https://workshops-js-montevideo.gitbook.io/react/
+
+Gracias asadito js por este hilo maravilloso https://twitter.com/asaditojs/status/1205482072565059584 en donde estan las documentaciones :)
+
+
+
 
