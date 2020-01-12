@@ -11,6 +11,8 @@ Espero con el tiempo poner mas contenido en este repositorio.
 
 Por ultimo quisiera pedir a aquellas personas que tienen un ingles muy avanzado que siempre que puedan, traduzcan documentaciones ya que realmente estan dando una ayuda enorme!
 
+------------------------------------------------------------------------------------
+
 ## Indice
 1 - Paginas Webs 
 
@@ -19,6 +21,8 @@ Por ultimo quisiera pedir a aquellas personas que tienen un ingles muy avanzado 
 3 - Comunidades
 
 4 - Documentacion de Workshops
+
+------------------------------------------------------------------------------------
 
 # Paginas Webs
 
@@ -64,6 +68,8 @@ Link -> https://ed.team/cursos-gratis
 
 ![edteam](https://user-images.githubusercontent.com/42939596/71772064-4e2aa580-2f23-11ea-8720-d5db4aa6ef2f.png)
 
+------------------------------------------------------------------------------------
+
 # Canales de Youtube
 
 | Nombre del Canal | Link |
@@ -75,6 +81,8 @@ Link -> https://ed.team/cursos-gratis
 | Pildoras Informaticas  | https://www.youtube.com/user/pildorasinformaticas  |
 | La Geekipedia De Ernesto  | https://www.youtube.com/user/neto376  |
 | Xaca Rana  | https://www.youtube.com/channel/UCB71XGdKnhBVDN-9SikOxFQ |
+
+------------------------------------------------------------------------------------
 
 # Comunidades
 
@@ -109,6 +117,8 @@ https://twitter.com/womenwhogoba
 ## CoDeAr
 
 https://twitter.com/SomosCodear?s=09
+
+------------------------------------------------------------------------------------
 
 # Documentacion de Workshops
 
