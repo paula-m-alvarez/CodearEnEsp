@@ -162,6 +162,10 @@ Gracias asadito js por este hilo maravilloso https://twitter.com/asaditojs/statu
 
 # Articulos
 
+## Todo acerca de JavaScript !!!
+
+Cursos, libros etc... en español en este excelente repo -> https://github.com/sergiodxa/impresionante-javascript
+
 ## Los 10 lenguajes de programación que más rápido están creciendo en todo el mundo
 
 Link -> https://www.businessinsider.es/10-lenguajes-programacion-rapido-estan-creciendo-532133
