@@ -194,3 +194,22 @@ Link -> https://midu.dev/react-hooks-introduccion-saca-todo-el-potencial-sin-cla
 
 Link -> https://medium.com/@nanovazquez/6-razones-para-darle-una-prueba-a-react-8f114b77ac70
 
+------------------------------------------------------------------------------------
+
+# Podcasts
+
+## Andreus Cafe
+
+Link -> https://open.spotify.com/show/5bcHC1SxZ9bvoJf5KHeSRC?si=RyH3bTFWQne0YaEwtPissA (Spotify)
+
+## CodigoTecno
+
+Link -> https://open.spotify.com/show/3evgHRrY2Wy0qB97JzVZS9?si=ahuoJBnvRouCGTjIhdL0Ag (Spotify)
+
+## DevRock Podcast
+
+Link -> https://open.spotify.com/show/5uRPZ5r7bRkW29c5AkppXq?si=x1m3s5F6TGqhSaNXK4bSMA (Spotify)
+
+## Hola Mundo Podcast
+
+Link -> https://open.spotify.com/show/6JR928XSX5GiPLwDdN6HQs?si=Xe5HlWJtRLmmRR2_PM03Fg (Spotify)
