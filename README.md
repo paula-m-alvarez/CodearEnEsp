@@ -24,6 +24,8 @@ Por ultimo quisiera pedir a aquellas personas que tienen un ingles muy avanzado 
 
 5 - Articulos
 
+6 - Podcasts
+
 ------------------------------------------------------------------------------------
 
 # Paginas Webs
